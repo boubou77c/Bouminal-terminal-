@@ -11,7 +11,7 @@ A simple terminal made with CPP.
 ## ✨Features
 Currently, you can execute simple commands such as :
 
-![App Screenshot]bouminal_pct.png
+![App Screenshot](bouminal_pct.png)
 ## 🚀 About Me
 I am a beginner programmer.
 
