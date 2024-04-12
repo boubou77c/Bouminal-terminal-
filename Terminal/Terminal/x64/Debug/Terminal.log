@@ -1,0 +1,7 @@
+﻿  commands.cpp
+C:\Users\amogu\Desktop\Terminal CPP\Terminal\Terminal\commands.cpp(22,25): warning C4101: 'e' : variable locale non référencée
+C:\Users\amogu\Desktop\Terminal CPP\Terminal\Terminal\commands.cpp(99,1): warning C4715: 'makeDir' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\amogu\Desktop\Terminal CPP\Terminal\Terminal\commands.cpp(158,1): warning C4715: 'moveFile' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\amogu\Desktop\Terminal CPP\Terminal\Terminal\commands.cpp(198,1): warning C4715: 'makeFile' : les chemins de contrôle ne retournent pas tous une valeur
+C:\Users\amogu\Desktop\Terminal CPP\Terminal\Terminal\commands.cpp(226,1): warning C4715: 'copyFile' : les chemins de contrôle ne retournent pas tous une valeur
+  Terminal.vcxproj -> C:\Users\amogu\Desktop\Terminal CPP\Terminal\x64\Debug\Terminal.exe
