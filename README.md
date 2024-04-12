@@ -3,6 +3,8 @@
 
 A simple terminal made with CPP.
 
+C++17 or more is required !
+
 
 
 
