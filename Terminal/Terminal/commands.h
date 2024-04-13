@@ -6,34 +6,36 @@
 
 namespace fs = std::filesystem;
 
+typedef std::string string;
+
 void purge();
 
-void print(std::string message);
+void print(string message);
 void time();
 void showFolder(fs::path actualPath);
 	
-bool changeDir(std::string newPath, fs::path& savedPath);
+bool changeDir(string newPath, fs::path& savedPath);
 
-bool makeDir(std::string nameDir);
+bool makeDir(string nameDir);
 
-bool delFolder(std::string nameDir);
+bool delFolder(string nameDir);
 
-bool moveFile(std::string fileToMove);
+bool moveFile(string fileToMove);
 	
 
-bool renameFile(std::string oldName);
+bool renameFile(string oldName);
 
 
-bool makeFile(std::string name);
+bool makeFile(string name);
 
-bool copyFile(std::string file);
+bool copyFile(string file);
 	 
 
-bool renameConsole(const std::string& name);
+bool renameConsole(const string& name);
 
-bool setColor(std::string color);
+bool setColor(string color);
 
-bool readFile(std::string fileName);
+bool readFile(string fileName);
 
 void help();
 
